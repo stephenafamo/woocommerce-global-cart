@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              http://stephenafamo.com
- * @since             1.0.0
+ * @since             0.1.0
  * @package           Woocommerce_Global_Cart
  *
  * @wordpress-plugin
  * Plugin Name:       WooCommerce Global Cart
  * Plugin URI:        http://stephenafamo.com/woocommerce-global-cart/
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Version:           0.1.0
  * Author:            Stephen Afam-Osemene
  * Author URI:        http://stephenafamo.com
  * License:           GPL-2.0+
@@ -64,7 +64,7 @@ require plugin_dir_path( __FILE__ ) . 'includes/class-woocommerce-global-cart.ph
  * then kicking off the plugin from this point in the file does
  * not affect the page life cycle.
  *
- * @since    1.0.0
+ * @since    0.1.0
  */
 function run_woocommerce_global_cart() {
 
